@@ -1,0 +1,5 @@
+alias ls="ls --color=auto"
+alias tmux="tmux -f ~/.config/tmux/tmux.conf"
+alias gradlew="./gradlew"
+alias vim="nvim" 
+alias vimf="nvim \$(fzf)"

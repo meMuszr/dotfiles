@@ -1,0 +1,6 @@
+= .files
+
+== Purpose
+
+To flex on all these nerds that my dotfiles are the best
+
